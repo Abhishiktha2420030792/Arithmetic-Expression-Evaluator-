@@ -101,6 +101,6 @@ No installation, no internet connection, no server required.
 
  #AUTHOR
  
- BY S.LAKSHMI ABHISHIKTHA
-    V.MOHANA
+ BY S.LAKSHMI ABHISHIKTHA,
+    V.MOHANA,
     P.CHAITRA SREE
