@@ -99,9 +99,8 @@ No installation, no internet connection, no server required.
 | Stack-based Evaluation | `evaluatePostfix()` in script.js |
 | Abstract Syntax Tree (AST) | `buildExprTree()` + canvas rendering |
 
- ##AUTHOR
- 
- BY 
- -S.LAKSHMI ABHISHIKTHA
- -V.MOHANA
- -P.CHAITRA SREE
+ ## Author
+
+S. Lakshmi Abhishiktha<br>
+V. Mohana<br>
+P. Chaitra Sree
